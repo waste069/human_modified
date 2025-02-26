@@ -1,0 +1,13 @@
+Ветка master отличается от ветки demo следующим образом:
+diff --git a/hometask.txt b/hometask.txt
+new file mode 100644
+index 0000000..e69de29
+Общее количество коммитов в репозитории: 7
+Комментарии к коммитам:
+init
+heat added
+README added
+dots
+fix readme
+Merge branch 'hat'
+Merge branch 'boots_buttons'
